@@ -1,3 +1,3 @@
 # NMAMIT-Libray-Attendance-App
 #hosted at
-https://nmamit-library.netlify.app/
+https://central-library-nmamit.netlify.app/
